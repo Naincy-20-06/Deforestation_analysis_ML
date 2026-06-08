@@ -14,10 +14,5 @@ Feature Analysis: Identifying key contributors like GDP, rainfall, and policy st
 
 Reporting: Visualizations (scatter plots, bar charts, heatmaps) and actionable recommendations for deforestation mitigation.
 
-Deliverables:
-
-Jupyter Notebook/Python script with the full SVM pipeline.
-
-Comprehensive report with insights, visualizations, and recommendations.
 
 This project demonstrates how machine learning can be applied to environmental issues, offering data-driven insights into deforestation causes and potential mitigation strategies.
